@@ -457,7 +457,6 @@ Churn Risk
 This helps compare monthly charges across different customer groups and churn-risk categories.
 
 # 🔍 Business Insights
----
 
 ### 1. Basic Plan Customers Represent a Major Churn Segment
 
@@ -465,7 +464,6 @@ The Basic plan had the highest number of churned customers.
 
 However, this does not necessarily mean that it had the highest revenue impact.
 
----
 
 ### 2. Geographic Concentration
 
@@ -479,7 +477,6 @@ Further investigation can focus on:
 * Service quality
 * Other regional factors
 
----
 
 ### 3. September 2024 Requires Investigation
 
@@ -493,7 +490,6 @@ Some areas that can be checked for this period are:
 * Customer complaints
 * Competitor activity
 
----
 
 ### 44. Support Escalations & Churn
 
