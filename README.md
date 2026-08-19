@@ -237,7 +237,6 @@ Cancellation date does not exist → 0 → Retained
 
 This converts churn into a numerical value that can be used for further analysis.
 
----
 
 ## Complaint Count
 
@@ -255,7 +254,6 @@ transform('count')
 
 This gives the number of support records associated with each customer.
 
----
 
 ## Customer Tenure
 
@@ -279,7 +277,6 @@ The result is stored in:
 tenure_days
 ```
 
----
 
 ## Churn Risk
 
@@ -322,7 +319,6 @@ Multiple support records can exist for the same customer. To avoid duplicate cus
 
 This creates the final customer-level dataset used for analysis.
 
----
 
 # 📊 Key Performance Indicators
 
@@ -491,11 +487,10 @@ Some areas that can be checked for this period are:
 * Competitor activity
 
 
-### 44. Support Escalations & Churn
+### 4. Support Escalations & Churn
 
 The project also looks at the relationship between support escalations and customer churn.
 
 The purpose is to check whether customers with support escalation issues are more likely to churn.
 
-```
 
